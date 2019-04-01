@@ -1,0 +1,4 @@
+1.Trzymaj lewy przycisk myszy ¿eby losowaæ kolor okularów
+2.Kliknij "S" ¿eby zapisaæ obrazek z wybranym kolorem okularów do PDF! (nazwa pliku out_img.pdf)
+
+!WSZYSTKIE PLIKI MUSZ¥ BYÆ W FOLDERZE "zadanko_1_kwietnia" BO INACZEJ NIE ZADZIA£A!
