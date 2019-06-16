@@ -1,5 +1,5 @@
 add_library('pdf')
-global test #wyszło dużo zmiennych xD
+global test #wyszło dużo zmiennych xD : te od kooru możnaby ująć w listę i byłoby mniej
 global zapis
 global r1
 global r2
